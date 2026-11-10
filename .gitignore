@@ -1,0 +1,13 @@
+# Binaries and archives
+*.rar
+*.zip
+*.7z
+mods/
+
+# Build artifacts
+*.obj
+*.pdb
+
+# Local environment & logs
+*.log
+scratch/
