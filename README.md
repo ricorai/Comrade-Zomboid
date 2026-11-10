@@ -50,13 +50,13 @@ Getting into a heavily modded server shouldn't take an afternoon of troubleshoot
 ### 1. Download the Supply Drop
 Download the installer pack from our open **[Google Drive Supply Drop Hub](https://drive.google.com/drive/folders/1oduhhCFL1L8-yFzgrYbZaFOpQM7IpAcx?usp=sharing)**.
 
-### 2. Run the Installer
+### 2. Run the Installer & Crossplay Launcher
 * Extract the folder to your PC.
-* Double-click **`1_Launch_Installer.bat`** (or `ComradeInstaller.exe`).
+* Double-click **`Comrade Zomboid Crossplay Launcher.bat`** (or `ComradeInstaller.exe`).
 * Click the green **"Install Comrade Modpack"** button.
   * It detects your game setup instantly.
   * Stages all 29 mods into your game folder.
-  * Automatically sets up crossplay so Steam players and standalone players can survive together seamlessly.
+  * Automatically sets up crossplay and creates your desktop **`Comrade Zomboid Crossplay Launcher.bat`** runner so Steam players and standalone players can survive together seamlessly.
 
 ### 3. Connect to the Server
 Launch your game, head to **JOIN**, and enter:

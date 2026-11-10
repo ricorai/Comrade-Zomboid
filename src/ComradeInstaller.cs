@@ -400,11 +400,11 @@ function Core.fracturesIfHeavyLoad(player, bodyDamage)
             try
             {
                 string desktop = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
-                string batPath = Path.Combine(desktop, "Comrade Zomboid (Crossplay).bat");
+                string batPath = Path.Combine(desktop, "Comrade Zomboid Crossplay Launcher.bat");
 
                 string batCode = string.Format(
 @"@echo off
-title Comrade Zomboid (Paid Steam Crossplay Launcher - AppID 480)
+title Comrade Zomboid Crossplay Launcher (AppID 480)
 echo ========================================================
 echo   COMRADE ZOMBOID - PAID STEAM CROSSPLAY LAUNCHER
 echo ========================================================
@@ -769,7 +769,7 @@ exit
             try
             {
                 string desktop = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
-                string batPath = Path.Combine(desktop, "Comrade Zomboid (Crossplay).bat");
+                string batPath = Path.Combine(desktop, "Comrade Zomboid Crossplay Launcher.bat");
 
                 if (core.DetectedType == GameEdition.PaidSteam && File.Exists(batPath))
                 {
